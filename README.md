@@ -1,4 +1,0 @@
-Quickly
-=======
-
-Quickly
